@@ -16,7 +16,7 @@
   <img align="center" alt="EdB-Latex" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
   <img align="center" alt="EdB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="EdB-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="right" alt ="EdB-Mafalda" height="150" src="https://twitter.com/mafalda_bot/status/1550153784558510087/photo/1">
+  <img align="right" alt ="EdB-Mafalda" height="150" style="border-radius:50px;" src="https://github.com/edleidebrito/Figures/blob/main/Mafalda_Basta.png">
 </div>
 
  ##
